@@ -1,0 +1,562 @@
+[
+  {
+    "bin_low": 19.291,
+    "bin_high": 20.263,
+    "bin_mid": 19.777,
+    "count": 4,
+    "density": 4e-05
+  },
+  {
+    "bin_low": 20.263,
+    "bin_high": 21.234,
+    "bin_mid": 20.749,
+    "count": 7,
+    "density": 7e-05
+  },
+  {
+    "bin_low": 21.234,
+    "bin_high": 22.206,
+    "bin_mid": 21.72,
+    "count": 10,
+    "density": 0.0001
+  },
+  {
+    "bin_low": 22.206,
+    "bin_high": 23.178,
+    "bin_mid": 22.692,
+    "count": 38,
+    "density": 0.00038
+  },
+  {
+    "bin_low": 23.178,
+    "bin_high": 24.149,
+    "bin_mid": 23.663,
+    "count": 63,
+    "density": 0.00063
+  },
+  {
+    "bin_low": 24.149,
+    "bin_high": 25.121,
+    "bin_mid": 24.635,
+    "count": 142,
+    "density": 0.00142
+  },
+  {
+    "bin_low": 25.121,
+    "bin_high": 26.093,
+    "bin_mid": 25.607,
+    "count": 264,
+    "density": 0.00264
+  },
+  {
+    "bin_low": 26.093,
+    "bin_high": 27.064,
+    "bin_mid": 26.578,
+    "count": 431,
+    "density": 0.00431
+  },
+  {
+    "bin_low": 27.064,
+    "bin_high": 28.036,
+    "bin_mid": 27.55,
+    "count": 677,
+    "density": 0.00677
+  },
+  {
+    "bin_low": 28.036,
+    "bin_high": 29.008,
+    "bin_mid": 28.522,
+    "count": 955,
+    "density": 0.00955
+  },
+  {
+    "bin_low": 29.008,
+    "bin_high": 29.979,
+    "bin_mid": 29.493,
+    "count": 1247,
+    "density": 0.01247
+  },
+  {
+    "bin_low": 29.979,
+    "bin_high": 30.951,
+    "bin_mid": 30.465,
+    "count": 1738,
+    "density": 0.01738
+  },
+  {
+    "bin_low": 30.951,
+    "bin_high": 31.922,
+    "bin_mid": 31.437,
+    "count": 2263,
+    "density": 0.02263
+  },
+  {
+    "bin_low": 31.922,
+    "bin_high": 32.894,
+    "bin_mid": 32.408,
+    "count": 2735,
+    "density": 0.02735
+  },
+  {
+    "bin_low": 32.894,
+    "bin_high": 33.866,
+    "bin_mid": 33.38,
+    "count": 3376,
+    "density": 0.03376
+  },
+  {
+    "bin_low": 33.866,
+    "bin_high": 34.837,
+    "bin_mid": 34.352,
+    "count": 3667,
+    "density": 0.03667
+  },
+  {
+    "bin_low": 34.837,
+    "bin_high": 35.809,
+    "bin_mid": 35.323,
+    "count": 4176,
+    "density": 0.04176
+  },
+  {
+    "bin_low": 35.809,
+    "bin_high": 36.781,
+    "bin_mid": 36.295,
+    "count": 4706,
+    "density": 0.04706
+  },
+  {
+    "bin_low": 36.781,
+    "bin_high": 37.752,
+    "bin_mid": 37.267,
+    "count": 4820,
+    "density": 0.0482
+  },
+  {
+    "bin_low": 37.752,
+    "bin_high": 38.724,
+    "bin_mid": 38.238,
+    "count": 5145,
+    "density": 0.05145
+  },
+  {
+    "bin_low": 38.724,
+    "bin_high": 39.696,
+    "bin_mid": 39.21,
+    "count": 5218,
+    "density": 0.05218
+  },
+  {
+    "bin_low": 39.696,
+    "bin_high": 40.667,
+    "bin_mid": 40.182,
+    "count": 5300,
+    "density": 0.053
+  },
+  {
+    "bin_low": 40.667,
+    "bin_high": 41.639,
+    "bin_mid": 41.153,
+    "count": 5055,
+    "density": 0.05055
+  },
+  {
+    "bin_low": 41.639,
+    "bin_high": 42.611,
+    "bin_mid": 42.125,
+    "count": 4991,
+    "density": 0.04991
+  },
+  {
+    "bin_low": 42.611,
+    "bin_high": 43.582,
+    "bin_mid": 43.096,
+    "count": 4859,
+    "density": 0.04859
+  },
+  {
+    "bin_low": 43.582,
+    "bin_high": 44.554,
+    "bin_mid": 44.068,
+    "count": 4497,
+    "density": 0.04497
+  },
+  {
+    "bin_low": 44.554,
+    "bin_high": 45.526,
+    "bin_mid": 45.04,
+    "count": 4256,
+    "density": 0.04256
+  },
+  {
+    "bin_low": 45.526,
+    "bin_high": 46.497,
+    "bin_mid": 46.011,
+    "count": 3875,
+    "density": 0.03875
+  },
+  {
+    "bin_low": 46.497,
+    "bin_high": 47.469,
+    "bin_mid": 46.983,
+    "count": 3547,
+    "density": 0.03547
+  },
+  {
+    "bin_low": 47.469,
+    "bin_high": 48.441,
+    "bin_mid": 47.955,
+    "count": 3208,
+    "density": 0.03208
+  },
+  {
+    "bin_low": 48.441,
+    "bin_high": 49.412,
+    "bin_mid": 48.926,
+    "count": 2819,
+    "density": 0.02819
+  },
+  {
+    "bin_low": 49.412,
+    "bin_high": 50.384,
+    "bin_mid": 49.898,
+    "count": 2381,
+    "density": 0.02381
+  },
+  {
+    "bin_low": 50.384,
+    "bin_high": 51.355,
+    "bin_mid": 50.87,
+    "count": 2130,
+    "density": 0.0213
+  },
+  {
+    "bin_low": 51.355,
+    "bin_high": 52.327,
+    "bin_mid": 51.841,
+    "count": 1804,
+    "density": 0.01804
+  },
+  {
+    "bin_low": 52.327,
+    "bin_high": 53.299,
+    "bin_mid": 52.813,
+    "count": 1585,
+    "density": 0.01585
+  },
+  {
+    "bin_low": 53.299,
+    "bin_high": 54.27,
+    "bin_mid": 53.785,
+    "count": 1409,
+    "density": 0.01409
+  },
+  {
+    "bin_low": 54.27,
+    "bin_high": 55.242,
+    "bin_mid": 54.756,
+    "count": 1171,
+    "density": 0.01171
+  },
+  {
+    "bin_low": 55.242,
+    "bin_high": 56.214,
+    "bin_mid": 55.728,
+    "count": 973,
+    "density": 0.00973
+  },
+  {
+    "bin_low": 56.214,
+    "bin_high": 57.185,
+    "bin_mid": 56.7,
+    "count": 799,
+    "density": 0.00799
+  },
+  {
+    "bin_low": 57.185,
+    "bin_high": 58.157,
+    "bin_mid": 57.671,
+    "count": 676,
+    "density": 0.00676
+  },
+  {
+    "bin_low": 58.157,
+    "bin_high": 59.129,
+    "bin_mid": 58.643,
+    "count": 572,
+    "density": 0.00572
+  },
+  {
+    "bin_low": 59.129,
+    "bin_high": 60.1,
+    "bin_mid": 59.614,
+    "count": 430,
+    "density": 0.0043
+  },
+  {
+    "bin_low": 60.1,
+    "bin_high": 61.072,
+    "bin_mid": 60.586,
+    "count": 400,
+    "density": 0.004
+  },
+  {
+    "bin_low": 61.072,
+    "bin_high": 62.044,
+    "bin_mid": 61.558,
+    "count": 328,
+    "density": 0.00328
+  },
+  {
+    "bin_low": 62.044,
+    "bin_high": 63.015,
+    "bin_mid": 62.529,
+    "count": 260,
+    "density": 0.0026
+  },
+  {
+    "bin_low": 63.015,
+    "bin_high": 63.987,
+    "bin_mid": 63.501,
+    "count": 201,
+    "density": 0.00201
+  },
+  {
+    "bin_low": 63.987,
+    "bin_high": 64.959,
+    "bin_mid": 64.473,
+    "count": 162,
+    "density": 0.00162
+  },
+  {
+    "bin_low": 64.959,
+    "bin_high": 65.93,
+    "bin_mid": 65.444,
+    "count": 136,
+    "density": 0.00136
+  },
+  {
+    "bin_low": 65.93,
+    "bin_high": 66.902,
+    "bin_mid": 66.416,
+    "count": 98,
+    "density": 0.00098
+  },
+  {
+    "bin_low": 66.902,
+    "bin_high": 67.874,
+    "bin_mid": 67.388,
+    "count": 79,
+    "density": 0.00079
+  },
+  {
+    "bin_low": 67.874,
+    "bin_high": 68.845,
+    "bin_mid": 68.359,
+    "count": 66,
+    "density": 0.00066
+  },
+  {
+    "bin_low": 68.845,
+    "bin_high": 69.817,
+    "bin_mid": 69.331,
+    "count": 45,
+    "density": 0.00045
+  },
+  {
+    "bin_low": 69.817,
+    "bin_high": 70.788,
+    "bin_mid": 70.303,
+    "count": 52,
+    "density": 0.00052
+  },
+  {
+    "bin_low": 70.788,
+    "bin_high": 71.76,
+    "bin_mid": 71.274,
+    "count": 34,
+    "density": 0.00034
+  },
+  {
+    "bin_low": 71.76,
+    "bin_high": 72.732,
+    "bin_mid": 72.246,
+    "count": 26,
+    "density": 0.00026
+  },
+  {
+    "bin_low": 72.732,
+    "bin_high": 73.703,
+    "bin_mid": 73.218,
+    "count": 23,
+    "density": 0.00023
+  },
+  {
+    "bin_low": 73.703,
+    "bin_high": 74.675,
+    "bin_mid": 74.189,
+    "count": 19,
+    "density": 0.00019
+  },
+  {
+    "bin_low": 74.675,
+    "bin_high": 75.647,
+    "bin_mid": 75.161,
+    "count": 13,
+    "density": 0.00013
+  },
+  {
+    "bin_low": 75.647,
+    "bin_high": 76.618,
+    "bin_mid": 76.133,
+    "count": 10,
+    "density": 0.0001
+  },
+  {
+    "bin_low": 76.618,
+    "bin_high": 77.59,
+    "bin_mid": 77.104,
+    "count": 7,
+    "density": 7e-05
+  },
+  {
+    "bin_low": 77.59,
+    "bin_high": 78.562,
+    "bin_mid": 78.076,
+    "count": 6,
+    "density": 6e-05
+  },
+  {
+    "bin_low": 78.562,
+    "bin_high": 79.533,
+    "bin_mid": 79.047,
+    "count": 4,
+    "density": 4e-05
+  },
+  {
+    "bin_low": 79.533,
+    "bin_high": 80.505,
+    "bin_mid": 80.019,
+    "count": 4,
+    "density": 4e-05
+  },
+  {
+    "bin_low": 80.505,
+    "bin_high": 81.477,
+    "bin_mid": 80.991,
+    "count": 3,
+    "density": 3e-05
+  },
+  {
+    "bin_low": 81.477,
+    "bin_high": 82.448,
+    "bin_mid": 81.962,
+    "count": 1,
+    "density": 1e-05
+  },
+  {
+    "bin_low": 82.448,
+    "bin_high": 83.42,
+    "bin_mid": 82.934,
+    "count": 1,
+    "density": 1e-05
+  },
+  {
+    "bin_low": 83.42,
+    "bin_high": 84.392,
+    "bin_mid": 83.906,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 84.392,
+    "bin_high": 85.363,
+    "bin_mid": 84.877,
+    "count": 1,
+    "density": 1e-05
+  },
+  {
+    "bin_low": 85.363,
+    "bin_high": 86.335,
+    "bin_mid": 85.849,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 86.335,
+    "bin_high": 87.306,
+    "bin_mid": 86.821,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 87.306,
+    "bin_high": 88.278,
+    "bin_mid": 87.792,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 88.278,
+    "bin_high": 89.25,
+    "bin_mid": 88.764,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 89.25,
+    "bin_high": 90.221,
+    "bin_mid": 89.736,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 90.221,
+    "bin_high": 91.193,
+    "bin_mid": 90.707,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 91.193,
+    "bin_high": 92.165,
+    "bin_mid": 91.679,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 92.165,
+    "bin_high": 93.136,
+    "bin_mid": 92.651,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 93.136,
+    "bin_high": 94.108,
+    "bin_mid": 93.622,
+    "count": 1,
+    "density": 1e-05
+  },
+  {
+    "bin_low": 94.108,
+    "bin_high": 95.08,
+    "bin_mid": 94.594,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 95.08,
+    "bin_high": 96.051,
+    "bin_mid": 95.566,
+    "count": 0,
+    "density": 0.0
+  },
+  {
+    "bin_low": 96.051,
+    "bin_high": 97.023,
+    "bin_mid": 96.537,
+    "count": 1,
+    "density": 1e-05
+  }
+]
